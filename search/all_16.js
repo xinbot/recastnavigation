@@ -1,8 +1,10 @@
 var searchData=
 [
-  ['y_1784',['y',['../structdtMeshHeader.html#a9969f562faa5990fec5ff27c9d2b50b9',1,'dtMeshHeader::y()'],['../structrcCompactSpan.html#a51e8cdcf30408a3f84da22c4d2623b68',1,'rcCompactSpan::y()'],['../structimguiGfxRect.html#a4e555e92963a7972428af94ebc560285',1,'imguiGfxRect::y()'],['../structimguiGfxText.html#ad760b02492ffb7f9a1e8a5dcef9d9ba5',1,'imguiGfxText::y()'],['../structGraphParams.html#af6b3d7848eb8ef348b636f15cd33bd12',1,'GraphParams::y()']]],
-  ['y0_1785',['y0',['../structimguiGfxLine.html#a1d5c294bc5a64a07ee855c4be3487f7a',1,'imguiGfxLine']]],
-  ['y1_1786',['y1',['../structimguiGfxLine.html#aa7f7bd3941ff8fd8014f119b0a123193',1,'imguiGfxLine']]],
-  ['ymax_1787',['ymax',['../structrcLayerRegion.html#ac62ab3eceaca8cb92f3b72c9ef697bb4',1,'rcLayerRegion::ymax()'],['../structrcRegion.html#a84ec21b2fef6d82817283727f295f14e',1,'rcRegion::ymax()']]],
-  ['ymin_1788',['ymin',['../structrcLayerRegion.html#a5d6ec3a8040c16fd837ea4e06264044c',1,'rcLayerRegion::ymin()'],['../structrcHeightPatch.html#addd346c10b03e29029ffe5c520e8f66f',1,'rcHeightPatch::ymin()'],['../structrcRegion.html#a058cf62973ff65b0d277724ed7cde9a8',1,'rcRegion::ymin()']]]
+  ['q_0',['q',['../structdtObstacleSegment.html#a3282730543d772664692b32c15576ee9',1,'dtObstacleSegment']]],
+  ['queryfiltertype_1',['queryFilterType',['../structdtCrowdAgentParams.html#af5d15cba10237592b1766d7d82da1420',1,'dtCrowdAgentParams']]],
+  ['querying_20abilities_2',['More spatial querying abilities',['../md_Docs_2__99__Roadmap.html#more-spatial-querying-abilities',1,'']]],
+  ['queryitems_3',['queryItems',['../classdtProximityGrid.html#a4ee1269c36500bb20d3891a2363c5ea8',1,'dtProximityGrid']]],
+  ['querypolygons_4',['querypolygons',['../classdtNavMeshQuery.html#a06e46d57afad3f07380d82bb8d4a6720',1,'dtNavMeshQuery::queryPolygons(const float *center, const float *halfExtents, const dtQueryFilter *filter, dtPolyRef *polys, int *polyCount, const int maxPolys) const'],['../classdtNavMeshQuery.html#aed2fc9071ca182a548baf5158cd4f441',1,'dtNavMeshQuery::queryPolygons(const float *center, const float *halfExtents, const dtQueryFilter *filter, dtPolyQuery *query) const']]],
+  ['querytiles_5',['queryTiles',['../classdtTileCache.html#afa3fb52e3082723c52a2048698a26cb3',1,'dtTileCache']]],
+  ['question_20or_20problem_6',['Have a Question or Problem?',['../md_CONTRIBUTING.html#have-a-question-or-problem',1,'']]]
 ];
